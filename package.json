@@ -1,6 +1,6 @@
 {
-  "name": "nodejsesenciales",
-  "version": "1.0.0",
+  "name": "nodejsesenciales-2raederdev",
+  "version": "1.0.1",
   "description": "Repositorio para el curso de esenciales de Node.js de Platzi.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "nodejs",
     "esenciales"
   ],
-  "author": "Platzi",
+  "author": "Platzi-2raederdev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/platzi/nodejsesenciales/issues"

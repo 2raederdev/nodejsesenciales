@@ -22,7 +22,7 @@ Con esto hecho, su lección estará lista para ser desarrollada junto al program
 
 ## Autor
 
-* **Platzi**
+* **Platzi-2raederdev**
 
 ## Licencia
 
